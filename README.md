@@ -35,12 +35,25 @@
 
 <img alt="Github" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" width="26px" align="left" style="margin-right:10px" />
 
+<img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="26px" align="left" style="margin-right:10px" />
+          
 <img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="26px" align="left" style="margin-right:10px" />
 
 <img alt="Jira" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="26px" align="left" style="margin-right:10px" />
+
+<img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="26px" align="left" style="margin-right:10px" />
+          
+<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="26px" align="left" style="margin-right:10px" />
+
+<img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="26px" align="left" style="margin-right:10px" />
+
+<img alt="DigitialOcean" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/digitalocean/digitalocean-original.svg" width="26px" align="left" style="margin-right:10px" />
+
+<img alt="AWS" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" width="26px" align="left" style="margin-right:10px" />
+
+<img alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="26px" align="left" style="margin-right:10px" />
+                                   
                     
-
-
 <br />
 <br />
 
