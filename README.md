@@ -25,6 +25,9 @@
           
 <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="26px" style="float: left;margin-right:10px" />
 
+<img alt="Jquery" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="26px" style="float: left;margin-right:10px" />
+          
+
 <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="26px" align="left" style="margin-right:10px" />
 
 <img alt="Postgresql" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="26px" align="left" style="margin-right:10px" />
