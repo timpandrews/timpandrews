@@ -43,7 +43,7 @@
 
 <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
           
-<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" margnalign="left" width="26px" style="margin-right:10px; margin-top:5px;" />
+<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
 
 <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
 
