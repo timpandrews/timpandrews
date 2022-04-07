@@ -7,7 +7,7 @@
 
 ### Languages and Tools:
 
-<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" margin-bottom="10px" align="left" width="26px" />
+<img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
 
 <img alt="Django" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
           
@@ -43,7 +43,7 @@
 
 <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
           
-<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" margin-bottom="10px" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
+<img alt="Ubuntu" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" margnalign="left" width="26px" style="margin-right:10px; margin-top:5px;" />
 
 <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" align="left" width="26px" style="margin-right:10px; margin-top:5px;" />
 
