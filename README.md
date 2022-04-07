@@ -53,6 +53,8 @@
 
 <img alt="WordPress" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg" width="26px" style="margin-right:10px; margin-top:5px;" />
 
+![WordPress](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-plain.svg|width=26px)
+
 ---
 
 ### 📕 Latest Blog Posts
