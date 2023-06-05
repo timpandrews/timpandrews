@@ -1,7 +1,7 @@
 # Hi there, I'm Tim - [<img width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 - I'm an experienced Developer / IT Professional
 - I'm working as a freelancer on [upwork][upwork]...
-- I'm also working on my portfolio/blog at [www.justtim.com][website]
+- I'm also working on a personal project at [garage.justtim.com][website]
 - I'm looking for a full-time position
 
 
